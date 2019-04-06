@@ -1,4 +1,6 @@
+.idea
 vagrant-vm
 ferret-space-backend
 ferret-space-ui
 ferret-space-keycloak
+ferret-space-media-library
