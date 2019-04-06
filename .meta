@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "vagrant-vm": "https://github.com/ferret-space/vagrant-vm.git",
+    "ferret-space-backend": "https://github.com/ferret-space/ferret-space-backend.git",
+    "ferret-space-ui": "https://github.com/ferret-space/ferret-space-ui.git",
+    "ferret-space-keycloak": "https://github.com/ferret-space/ferret-space-keycloak.git"
+  }
+}
